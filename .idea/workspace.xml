@@ -40,7 +40,6 @@
       <change afterPath="$PROJECT_DIR$/../TestNodeJs_Tron/src/routes/contract.routes.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../TestNodeJs_Tron/tsconfig.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../TestNodeJs_Tron/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Typescripts/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Typescripts/.idea/Typescripts.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Typescripts/.idea/modules.xml" afterDir="false" />
@@ -88,6 +87,8 @@
       <change afterPath="$PROJECT_DIR$/../test_task_backend-master/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../test_task_backend-master/.idea/test_task_backend-master.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../test_task_backend-master/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +135,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1633721902068</updated>
-      <workItem from="1633721905738" duration="7683000" />
+      <workItem from="1633721905738" duration="8324000" />
     </task>
     <servers />
   </component>
