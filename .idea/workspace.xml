@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b7fd82a-8c1f-4bd7-b2ae-f678a82958ac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lika/.idea/Lika.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lika/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lika/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/1/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestMyKlass/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestMyKlass/.idea/TestMyKlass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestMyKlass/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestMyKlass/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestMyKlass/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestMyKlass/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestMyKlass/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestMyKlass/bin/www" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestMyKlass/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestMyKlass/helper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestMyKlass/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestMyKlass/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestMyKlass/routes/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestMyKlass/routes/lessons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestMyKlass/setvices/db.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestMyKlass/setvices/lessons_service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestMyKlass/test (1).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestMyKlass/testsql.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestMyKlass2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestMyKlass2/.idea/TestMyKlass2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestMyKlass2/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestMyKlass2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestMyKlass2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestMyKlass2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestMyKlass2/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNodeJs_Tron/.idea/TestNodeJs_Tron.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNodeJs_Tron/app.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNodeJs_Tron/config/default.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNodeJs_Tron/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNodeJs_Tron/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNodeJs_Tron/src/models/Contract.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNodeJs_Tron/src/routes/contract.routes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNodeJs_Tron/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNodeJs_Tron/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Typescripts/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Typescripts/.idea/Typescripts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Typescripts/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Typescripts/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Typescripts/1/2.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Typescripts/1/3.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Typescripts/1/4.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Typescripts/1/5.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Typescripts/1/6.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Typescripts/1/7.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Typescripts/1/8.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mc-testwork-98fab683d9387f1dda747b486068c3bbc26f23e5/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mc-testwork-98fab683d9387f1dda747b486068c3bbc26f23e5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mc-testwork-98fab683d9387f1dda747b486068c3bbc26f23e5/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mc-testwork-98fab683d9387f1dda747b486068c3bbc26f23e5/.idea/mc-testwork-98fab683d9387f1dda747b486068c3bbc26f23e5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mc-testwork-98fab683d9387f1dda747b486068c3bbc26f23e5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mc-testwork-98fab683d9387f1dda747b486068c3bbc26f23e5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mc-testwork-98fab683d9387f1dda747b486068c3bbc26f23e5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mc-testwork-98fab683d9387f1dda747b486068c3bbc26f23e5/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mc-testwork-98fab683d9387f1dda747b486068c3bbc26f23e5/config/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mc-testwork-98fab683d9387f1dda747b486068c3bbc26f23e5/helpers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mc-testwork-98fab683d9387f1dda747b486068c3bbc26f23e5/migrations/20210328145019-create-lesson.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mc-testwork-98fab683d9387f1dda747b486068c3bbc26f23e5/migrations/20210328145101-create-teacher.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mc-testwork-98fab683d9387f1dda747b486068c3bbc26f23e5/migrations/20210328145130-create-student.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mc-testwork-98fab683d9387f1dda747b486068c3bbc26f23e5/migrations/20210328145317-create-lesson-teacher.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mc-testwork-98fab683d9387f1dda747b486068c3bbc26f23e5/migrations/20210328145353-create-lesson-student.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mc-testwork-98fab683d9387f1dda747b486068c3bbc26f23e5/models/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mc-testwork-98fab683d9387f1dda747b486068c3bbc26f23e5/models/lesson.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mc-testwork-98fab683d9387f1dda747b486068c3bbc26f23e5/models/lessonstudent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mc-testwork-98fab683d9387f1dda747b486068c3bbc26f23e5/models/lessonteacher.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mc-testwork-98fab683d9387f1dda747b486068c3bbc26f23e5/models/student.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mc-testwork-98fab683d9387f1dda747b486068c3bbc26f23e5/models/teacher.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mc-testwork-98fab683d9387f1dda747b486068c3bbc26f23e5/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mc-testwork-98fab683d9387f1dda747b486068c3bbc26f23e5/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mc-testwork-98fab683d9387f1dda747b486068c3bbc26f23e5/routes/lessons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mc-testwork-98fab683d9387f1dda747b486068c3bbc26f23e5/routes/root.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mc-testwork-98fab683d9387f1dda747b486068c3bbc26f23e5/seeders/20210328154212-dump_lessons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mc-testwork-98fab683d9387f1dda747b486068c3bbc26f23e5/seeders/20210328154251-dump_teachers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mc-testwork-98fab683d9387f1dda747b486068c3bbc26f23e5/seeders/20210328154522-dump_lesson_teachers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mc-testwork-98fab683d9387f1dda747b486068c3bbc26f23e5/seeders/20210328154536-dump_student.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mc-testwork-98fab683d9387f1dda747b486068c3bbc26f23e5/seeders/20210328154538-dump_lesson_students.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_task_backend-master/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_task_backend-master/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_task_backend-master/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_task_backend-master/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_task_backend-master/.idea/test_task_backend-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_task_backend-master/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1zEn1k55RnEmCZEh5aM5Pzcj2M2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="MTHome" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b7fd82a-8c1f-4bd7-b2ae-f678a82958ac" name="Default Changelist" comment="" />
+      <created>1633721902068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633721902068</updated>
+      <workItem from="1633721905738" duration="7683000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+</project>
